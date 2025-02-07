@@ -1,7 +1,7 @@
 #### Welcome
 
 ```
-Welcome to Temperature Converter - by Candra Ristiawan
+Welcome to Temperature Converter
 just play in your terminal haha...!
 ```
 
